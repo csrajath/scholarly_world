@@ -1,0 +1,56 @@
+This is a master file to list all of Organizations and Products in the world that are catering service scholarly community.git
+
+## Organization:
+	
+* 	https://www.rd-alliance.org/
+* 	https://inveniosoftware.org/
+* 	http://www.icsu-wds.org/
+* 	https://www.openaire.eu/
+* 	https://codata.org/
+* 	https://osf.io/
+* 	https://datadryad.org/
+* 	https://datacite.org/
+* 	http://re3data.org/
+* 	https://i4oc.org/
+* 	http://www.righttoresearch.org/
+* 	https://labworm.com/
+	
+## Companies/Products
+* 	https://subugoe.github.io/
+* 	typeset.io
+* 	https://open-access-monitor.de/
+* 	http://opencitations.net/
+* 	https://www.oahelper.org/
+* 	https://demo.museglobal.ro/
+* 	https://www.jgateplus.com/
+* 	https://www.scholarcy.com/
+* 	https://f1000.com/
+* 	https://www.labarchives.com/
+* 	https://www.meta.org/
+* 	http://csrankings.org/#/index?ir
+* 	https://shareyourpaper.org/
+* 	https://openaccessbutton.org/
+* 	https://www.turnitin.com/
+* 	https://iris.ai/
+* 	https://researchcode.com/
+* 	https://www.paper-digest.com/about
+* 	http://etalia.org/
+* 	https://kopernio.com/
+* 	https://www.yewno.com/products
+* 	http://finder.sciride.org/
+* 	https://openknowledgemaps.org/index
+* 	https://zenodo.org/
+* 	http://www.scholix.org/
+* 	https://pluto.network/
+* 	https://www.eclateng.com/
+* 	https://www.morressier.com/
+* 	https://en.wikipedia.org/wiki/Bureau_van_Dijk
+* 	https://paperpile.com/welcome
+* 	https://www.jisc.ac.uk/data-and-analytics
+* 	http://www.brainboxresearch.com/
+* 	academia.edu
+* 	https://researchably.com
+* 	https://benty-fields.com
+* 	https://www.authorea.com/
+* 	https://openaccessbutton.org/
+* 	unpaywall.org

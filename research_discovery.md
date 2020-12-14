@@ -19,6 +19,7 @@ This is a master file to list all of Organizations and Products in the world tha
 * 	https://subugoe.github.io/
 *	https://inciteful.xyz
 * 	typeset.io
+*	https://42papers.com/
 * 	https://open-access-monitor.de/
 * 	http://opencitations.net/
 * 	https://www.oahelper.org/

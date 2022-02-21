@@ -25,6 +25,7 @@ This is a master file to list all of Organizations and Products in the world tha
 * 	https://www.oahelper.org/
 * 	https://demo.museglobal.ro/
 * 	https://www.jgateplus.com/
+* 	https://fabian-beck.github.io/pure-suggest/
 * 	https://www.scholarcy.com/
 * 	https://f1000.com/
 * 	https://www.labarchives.com/
